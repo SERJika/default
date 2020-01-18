@@ -1,0 +1,9 @@
+{
+	"extends": [
+		"stylelint-config-wordpress/scss"
+	],
+
+	"ignoreFiles": [
+		"src/sass/_bootstrap-*.scss"
+	]
+}

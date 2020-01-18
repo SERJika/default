@@ -1,0 +1,8 @@
+{
+	"extends": "plugin:@wordpress/eslint-plugin/recommended",
+
+	"globals": {
+		"jQuery": true,
+		"webtonica_options": true
+	}
+}
