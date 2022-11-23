@@ -24,7 +24,7 @@
     "@wordpress/eslint-plugin": "^3.1.0",
     "autoprefixer": "^9.6.4",
     "bootstrap": "^4.3.1",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.10",
     "cssnano": "^4.1.10",
     "eslint": "^6.5.1",
     "genetiks": "^1.2.0",
